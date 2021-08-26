@@ -1,5 +1,5 @@
 # d365fo-template
-Template for D365 FO projects
+Template for D365 FO (Microsoft Dynamics 365 Finance and Operations) projects (Git)
 
 ## Getting Started
 
