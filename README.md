@@ -3,7 +3,7 @@ Template for D365 FO (Microsoft Dynamics 365 Finance and Operations) projects (G
 
 ## Getting Started
 
-1. Clone the repository on your development environment.
+1. Clone (or use the template) the repository on your development environment.
 2. Add your models to the **Metadata** folder.
 
     Example structure:
